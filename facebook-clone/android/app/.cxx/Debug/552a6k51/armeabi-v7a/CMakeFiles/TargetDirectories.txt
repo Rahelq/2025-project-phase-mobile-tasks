@@ -1,0 +1,2 @@
+C:/Users/Hp/AndroidStudioProjects/facebook_clone/android/app/.cxx/Debug/552a6k51/armeabi-v7a/CMakeFiles/edit_cache.dir
+C:/Users/Hp/AndroidStudioProjects/facebook_clone/android/app/.cxx/Debug/552a6k51/armeabi-v7a/CMakeFiles/rebuild_cache.dir
